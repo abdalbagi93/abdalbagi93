@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdalbagi Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Abdalbagi</h1>
 <h3 align="center">Aspiring .Net Developer in making</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abdalbagi_" target="blank"><img src="https://img.shields.io/twitter/follow/@abdalbagi_?logo=twitter&style=for-the-badge" alt="@abdalbagi_" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and .NET**
+- 🌱 I’m currently learning **Angular and .NET Frameworks**
 
 - 📫 How to reach me **aabdalbagi93@gmail.com**
 
